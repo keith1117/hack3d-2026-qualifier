@@ -1,0 +1,48 @@
+{
+  "Boat": {
+    "output_faces": 225146,
+    "watertight": true,
+    "extents_mm": [
+      60.00100135803223,
+      31.003999710083008,
+      48.0
+    ],
+    "volume_mm3": 15550.498689100621
+  },
+  "Box": {
+    "design_dimensions_mm": {
+      "overall_x": 98,
+      "overall_y": 92,
+      "height": 27,
+      "body_outer_diameter": 61.3,
+      "body_inner_diameter": 57.3,
+      "port_outer_diameter": 25,
+      "port_inner_diameter": 20,
+      "floor_thickness": 3,
+      "boss_diameter": 8,
+      "screw_hole_diameter": 3.2
+    },
+    "output_faces": 7492,
+    "watertight": true,
+    "extents_mm": [
+      98.0,
+      92.0,
+      27.000000000000004
+    ],
+    "volume_mm3": 29908.928515473537
+  },
+  "Tower": {
+    "fitted_dimensions": {
+      "diameter_mm": 12.5,
+      "height_mm": 24.2
+    },
+    "output_faces": 512,
+    "watertight": true,
+    "extents_mm": [
+      12.5,
+      12.5,
+      24.200000762939453
+    ],
+    "volume_mm3": 2968.5943855142505
+  }
+}
